@@ -4,7 +4,11 @@ It was created as part of a learning exercise to understand and apply data analy
 
 # Key Insights
 Patient Admission Status: Admitted vs. non-admitted breakdown 
+
 Age Distribution: Patient count across age groups 
+
 Timeliness: % of patients attended within 30 minutes 
+
 Gender Analysis: Male vs. Female patient split 
+
 Department Referrals: Common departments patients are referred to 
