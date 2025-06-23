@@ -3,12 +3,12 @@ This project presents an interactive Hospital Emergency Room Dashboard built ent
 It was created as part of a learning exercise to understand and apply data analysis and visualization techniques in Excel, especially focused on a healthcare environment.
 
 # Key Insights
-Patient Admission Status: Admitted vs. non-admitted breakdown 
+1)Patient Admission Status: Admitted vs. non-admitted breakdown 
 
-Age Distribution: Patient count across age groups 
+2)Age Distribution: Patient count across age groups 
 
-Timeliness: % of patients attended within 30 minutes 
+3)Timeliness: % of patients attended within 30 minutes 
 
-Gender Analysis: Male vs. Female patient split 
+4)Gender Analysis: Male vs. Female patient split 
 
-Department Referrals: Common departments patients are referred to 
+5)Department Referrals: Common departments patients are referred to 
